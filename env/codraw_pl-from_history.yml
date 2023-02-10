@@ -1,0 +1,11 @@
+name: codraw_pl
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - torchvision
+  - pytorch
+  - torchtext
+  - h5py
+  - ipykernel
+prefix: /home/users/blasota/anaconda3/envs/codraw_pl
