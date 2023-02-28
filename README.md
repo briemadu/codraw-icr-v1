@@ -33,8 +33,7 @@ should create it by calling the same installations one by one as we did. In case
 
 ## Data
 
-Check data/README.md for the details on how to download the necessary datasets.
-
+Check data/README.md for the details on how to download the necessary datasets. Our annotation is available at OSF: [https://osf.io/gcjhz/](https://osf.io/gcjhz/). You can download it manually or clone via the [osfclient](https://github.com/osfclient/osfclient).
 
 
 ## Replicating the results
