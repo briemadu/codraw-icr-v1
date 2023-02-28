@@ -2,17 +2,21 @@
 
 The following data/code directories are necessary:
 
+- CoDraw-iCR (v1) Annotation
 - AbstractScenes [link](https://www.microsoft.com/en-ca/download/details.aspx?id=52035)
 - CoDraw: data code [link](https://github.com/facebookresearch/CoDraw)
 - CoDraw: data file [link](https://drive.google.com/file/d/0B-u9nH58139bTy1XRFdqaVEzUGs/view?usp=sharing)
 - CoDraw: model code [link](https://github.com/facebookresearch/codraw-models)
 - Incremental CoDraw scenes
-- CoDraw-iCR (v1) Annotation
 
 
 # Set Up
 
 These are the steps to populate the ```data/``` directory. We do not provide a unified ```.sh``` script because some of them have to be downloaded manually.
+
+### CoDraw-iCR (v1)
+
+Our annotation is available at OSF: [https://osf.io/gcjhz/](https://osf.io/gcjhz/). You can download it manually or clone via the [osfclient](https://github.com/osfclient/osfclient).
 
 ### Abstract Scenes
 
@@ -43,10 +47,6 @@ cd ..
 
 The code to generate the step-by-step scenes was kindly written by our colleague Philipp Sadler. It turns the dialogue JSON files into a .txt file that contains the scene string representations. To generate them, follow the instructions in ```IncrementalCoDrawImages/README```.
 
-
-### CoDraw-iCR (v1)
-
-Please contact us to get the file. In the future, we may post the link here.
 
 ### CoDraw model code
 
