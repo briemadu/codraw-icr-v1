@@ -80,4 +80,17 @@ Our source code is licensed under the MIT License.
 
 If you use our work, please cite:
 
-(TBA)
+```
+@inproceedings{madureira-schlangen-2023-instruction,
+    title = "Instruction Clarification Requests in Multimodal Collaborative Dialogue Games: Tasks, and an Analysis of the {C}o{D}raw Dataset",
+    author = "Madureira, Brielen  and
+      Schlangen, David",
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.eacl-main.169",
+    pages = "2303--2319",
+}
+```
